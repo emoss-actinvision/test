@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recyclebin:RecycleBin xmlns:recyclebin="http://www.talend.org/recyclebin">
+  <deletedFolders>process/polyplus</deletedFolders>
+  <deletedItems id="_4EuoYMYvEeyAoo6KCr_VBQ" path="" type="PROCESS"/>
+  <deletedItems id="_uISaYI_qEeyg8o9RJsrsiQ" path="" type="PROCESS"/>
+  <deletedItems id="_wNMAMMY2EeyAoo6KCr_VBQ" path="" type="PROCESS"/>
+  <deletedItems id="_KoWAcJoxEeyA49dykvFdTA" path="polyplus" type="PROCESS"/>
+  <deletedItems id="_TcsiIIXREey4n_4FtG2AzQ" path="process/_DLFRYHLkEey6e-cme-dMdw" type="TEST_CONTAINER"/>
+</recyclebin:RecycleBin>

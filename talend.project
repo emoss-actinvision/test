@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_mwpBIXLPEey6e-cme-dMdw" label="INT-talend-actinvision" description="Internal Actinvision Git project for Talend" language="java" technicalLabel="INT_TALEND_ACTINVISION" author="_mwpBInLPEey6e-cme-dMdw" productVersion="Talend Cloud Real-Time Big Data Platform-7.3.1.20210623_0656-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/emoss-actinvision/int-talend-actinvision.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_myc_AHLPEey6e-cme-dMdw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_mwpBInLPEey6e-cme-dMdw" login="emoss@nfr.actinvision.com" firstName="Eric" lastName="MOSS" type="DQ"/>
+  <TalendProperties:User xmi:id="_9JEagHUmEeytdan_iFhv9g" login="atricot@nfr.actinvision.com" firstName="Alexandre" lastName="TRICOT" type="DQ"/>
+  <TalendProperties:User xmi:id="_9JEagXUmEeytdan_iFhv9g" login="rilchev@nfr.actinvision.com" firstName="Radoslav" lastName="ILCHEV" type="DQ"/>
+  <TalendProperties:User xmi:id="_9JEagnUmEeytdan_iFhv9g" login="jlarcher@nfr.actinvision.com" firstName="Julien" lastName="LARCHER" type="DQ"/>
+  <TalendProperties:User xmi:id="_NpdYYMCOEey_GOCfsz4y3g" login="bkeller@nfr.actinvision.com" firstName="Bastien" lastName="Keller-Heer-Vinolo" type="DQ"/>
+</xmi:XMI>
